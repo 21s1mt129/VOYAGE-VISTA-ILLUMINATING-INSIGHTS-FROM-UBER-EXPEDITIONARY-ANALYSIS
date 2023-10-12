@@ -8,4 +8,5 @@ https://public.tableau.com/app/profile/sanjana.m6691/viz/story_16953599512820/Da
 
 https://public.tableau.com/app/profile/sanjana.m6691/viz/story_16953599512820/UBERTRIPS?publish=yes
 
-https://drive.google.com/drive/my-drive
+
+https://drive.google.com/file/d/1GHkEu6hsD69CQyKVX9m7y8BoUWGH0pf8/view
